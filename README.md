@@ -37,6 +37,11 @@ Each project has its own repository containing the source code, documentation, a
 - **Technologies:** C++
 - **Repository:** https://github.com/Lucaskatalahali/ascii-shape-editor
 
+### ⬢ Hexagonal Priority Queue Simulator
+- **Course:** Data Structures
+- **Technologies:** C++
+- **Repository:** https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator
+
 ### 🚚 Supply and Logistics Management System
 - **Course:** Object-Oriented Analysis and Design
 - **Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, PostgreSQL
