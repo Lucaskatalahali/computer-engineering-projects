@@ -9,14 +9,19 @@ Each project has its own repository containing the source code, documentation, a
 ## 📚 1st Year
 
 ### 🏢 Condominium Management System
-- **Technologies:** C++
 - **Course:** Introduction to Programming
+- **Technologies:** C++
 - **Repository:** https://github.com/Lucaskatalahali/condominium-management-system
 
 ### 🎮 Vocabulary Quiz App (English–Turkish)
-- **Technologies:** C#, .NET Windows Forms
 - **Course:** Object-Oriented Programming
+- **Technologies:** C#, .NET Windows Forms
 - **Repository:** https://github.com/Lucaskatalahali/vocabulary-quiz-app
+
+### 🎮 Personal Website
+- **Course:** Web Technologies
+- **Technologies:**  HTML, CSS, JavaScript
+- **Repository:** https://github.com/Lucaskatalahali/personal-website
 
 ---
 
