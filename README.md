@@ -23,7 +23,7 @@ Each project has its own repository containing the source code, documentation, a
 ## 📚 2nd Year
 
 ### 🚚 Supply and Logistics Management System
-- **Technologies:** ASP.NET Core MVC, Entity Framework Core, PostgreSQL
+- **Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, PostgreSQL
 - **Course:** Object-Oriented Analysis and Design
 - **Repository:** https://github.com/Lucaskatalahali/supply-and-logistics-management-system
 
