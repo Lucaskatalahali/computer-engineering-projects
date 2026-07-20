@@ -8,12 +8,7 @@ Each project has its own repository containing the source code, documentation, a
 
 ## 📚 1st Year
 
-### 🏢 Condominium Management System (Console App)
-- **Course:** Introduction to Programming
-- **Technologies:** C++
-- **Repository:** https://github.com/Lucaskatalahali/condominium-management-system
-
-### 🏢 Condominium Management System (Desktop App/Windows Forms)
+### 🏢 Condominium Management System
 - **Course:** Object-Oriented Programming
 - **Technologies:** C#, .NET Windows Forms
 - **Repository:** https://github.com/Lucaskatalahali/condominium-management-system-desktop
