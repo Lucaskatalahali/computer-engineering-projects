@@ -32,9 +32,14 @@ Each project has its own repository containing the source code, documentation, a
 
 ## 📚 2nd Year
 
+### 🚚 ASCII Shape Editor (Console Application)
+- **Course:** Data Structures
+- **Technologies:** C++
+- **Repository:** https://github.com/Lucaskatalahali/ascii-shape-editor
+
 ### 🚚 Supply and Logistics Management System
-- **Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, PostgreSQL
 - **Course:** Object-Oriented Analysis and Design
+- **Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, PostgreSQL
 - **Repository:** https://github.com/Lucaskatalahali/Supply-And-Logistics-System
 
 ---
