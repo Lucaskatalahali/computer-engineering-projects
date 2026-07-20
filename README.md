@@ -32,7 +32,7 @@ Each project has its own repository containing the source code, documentation, a
 
 ## 📚 2nd Year
 
-### 🚚 ASCII Shape Editor (Console Application)
+### 🎨 ASCII Shape Editor (Console Application)
 - **Course:** Data Structures
 - **Technologies:** C++
 - **Repository:** https://github.com/Lucaskatalahali/ascii-shape-editor
