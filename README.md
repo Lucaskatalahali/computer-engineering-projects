@@ -18,7 +18,7 @@ Each project has its own repository containing the source code, documentation, a
 - **Technologies:** C#, .NET Windows Forms
 - **Repository:** https://github.com/Lucaskatalahali/vocabulary-quiz-app
 
-### 🎮 Personal Website
+### 🌐 Personal Website
 - **Course:** Web Technologies
 - **Technologies:**  HTML, CSS, JavaScript
 - **Repository:** https://github.com/Lucaskatalahali/personal-website
