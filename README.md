@@ -1,7 +1,7 @@
 # 🎓 Computer Engineering Projects
 
 [![University](https://img.shields.io/badge/University-Sakarya_University-blue)](https://www.sakarya.edu.tr/)
-[![Program](https://img.shields.io/badge/Program-Computer_Engineering-success)](#)
+[![Program](https://img.shields.io/badge/Program-Computer_Engineering-blue)](#)
 [![Projects](https://img.shields.io/badge/Total_Projects-8-informational)](#)
 
 A collection of academic projects developed throughout my **Computer Engineering** degree at **Sakarya University**.
