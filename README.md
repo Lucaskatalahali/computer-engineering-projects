@@ -6,7 +6,7 @@
 
 A collection of academic projects developed throughout my **Computer Engineering** degree at **Sakarya University**.
 
-Each repository contains the complete source code, technical documentation, screenshots (when applicable), and build instructions.
+This repository serves as a central index, with each project linked to its own dedicated repository containing the complete source code, technical documentation, screenshots (when applicable), and build instructions.
 
 ---
 
