@@ -15,7 +15,7 @@ This repository serves as a central index, with each project linked to its own d
 *Focus: Programming Fundamentals, Object-Oriented Programming, and Web Development.*
 
 | Project | Course | Tech Stack | Grade | Repository |
-| :--- | :--- | :--- | :---: | :--- |
+| :--- | :--- | :--- | :---: | :---: |
 | 🏢 Condominium Management System (Console App) | Introduction to Programming | C++ | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/condominium-management-system) |
 | 🏢 Condominium Management System (Desktop App) | Object-Oriented Programming | C#, .NET WinForms | ![90/100](https://img.shields.io/badge/90%2F100-green?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/condominium-management-system-desktop) |
 | 🎮 Vocabulary Quiz App (EN–TR) | Object-Oriented Programming | C#, .NET WinForms | ![96/100](https://img.shields.io/badge/96%2F100-brightgreen?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/vocabulary-quiz-app) |
