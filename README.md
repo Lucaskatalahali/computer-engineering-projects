@@ -31,7 +31,7 @@ This repository serves as a central index, with each project linked to its own d
 | 🎨 ASCII Shape Editor | Data Structures | C++ | 100/100 | [Repo](https://github.com/Lucaskatalahali/ascii-shape-editor) |
 | ⬢ Hexagonal Priority Queue Simulator | Data Structures | C++ | 100/100 | [Repo](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator) |
 | 🎬 Film Production Management System | Database Management Systems | PostgreSQL, C#, .NET WinForms | 100/100 | [Repo](https://github.com/Lucaskatalahali/FilmProduction) |
-| 🚚 Supply and Logistics Management System | Object-Oriented Analysis and Design | ASP.NET Core MVC, EF Core, PostgreSQL | 87/100 | [Repo](https://github.com/Lucaskatalahali/Supply-And-Logistics-System) |
+| 🚚 Supply and Logistics Management System | Object-Oriented Analysis and Design | C#, ASP.NET Core MVC, EF Core, PostgreSQL | 87/100 | [Repo](https://github.com/Lucaskatalahali/Supply-And-Logistics-System) |
 
 ---
 
