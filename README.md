@@ -2,7 +2,7 @@
 
 ![University](https://img.shields.io/badge/University-Sakarya_Üniversitesi-blue)
 
-![Total Projects](https://img.shields.io/badge/Total-Projects-8-orange)
+![Total Projects](https://img.shields.io/badge/Total-Projects-8-blue)
 
 A collection of academic projects developed throughout my **Computer Engineering** degree at **Sakarya University**.
 
