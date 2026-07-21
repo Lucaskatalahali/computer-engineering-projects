@@ -28,7 +28,7 @@ This repository serves as a central index, with each project linked to its own d
 *Focus: Data Structures, Database Systems, and Enterprise Software Development.*
 
 | Project | Course | Tech Stack | Grade | Repository |
-| :--- | :--- | :--- | :---: | :--- |
+| :--- | :--- | :--- | :---: | :---: |
 | 🎨 ASCII Shape Editor | Data Structures | C++ | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/ascii-shape-editor) |
 | ⬢ Hexagonal Priority Queue Simulator | Data Structures | C++ | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator) |
 | 🎬 Film Production Management System | Database Management Systems | PostgreSQL, C#, .NET WinForms | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | [Repo](https://github.com/Lucaskatalahali/FilmProduction) |
