@@ -30,6 +30,7 @@ Each project has its own repository containing the source code, documentation, a
 
 ---
 
+
 ## 📚 2nd Year
 
 ### 🎨 ASCII Shape Editor (Console Application)
@@ -53,6 +54,7 @@ Each project has its own repository containing the source code, documentation, a
 - **Repository:** https://github.com/Lucaskatalahali/Supply-And-Logistics-System
 
 ---
+
 
 ## 📚 3rd Year
 
