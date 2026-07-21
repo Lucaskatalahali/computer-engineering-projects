@@ -1,7 +1,7 @@
 # 🎓 Computer Engineering Projects
 
 ![University](https://img.shields.io/badge/University-Sakarya_University-blue)
-![Academic Projects](https://img.shields.io/badge/Academic_Projects-8-blue)
+![Academic Projects](https://img.shields.io/badge/Academic_Projects-10-blue)
 
 A collection of academic projects developed throughout my **Computer Engineering** degree at **Sakarya University**.
 
