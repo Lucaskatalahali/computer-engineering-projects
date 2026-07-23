@@ -24,7 +24,7 @@ This repository serves as a central index, with each project linked to its own d
 
 ## 📚 2nd Year (2025–2026)
 
-*Focus: Data Structures, Database Systems, and Enterprise Software Development.*
+*Focus: Algorithms, data modeling, object-oriented design, and large-scale software development.*
 
 | Project | Course | Tech Stack | Grade | Repository |
 | :--- | :--- | :--- | :---: | :---: |
@@ -48,10 +48,11 @@ This repository serves as a central index, with each project linked to its own d
 This repository documents my academic progression throughout the **Computer Engineering** program, covering topics such as:
 
 - Algorithms & Data Structures
-- Object-Oriented Programming
+- Object-Oriented Programming & Design
 - Database Systems
-- Software Engineering
-- Enterprise Application Development
+- Software Architecture
+- Backend Development
+- Programming Languages
 - Web Development
 
 Each repository contains:
