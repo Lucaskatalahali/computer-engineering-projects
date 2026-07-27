@@ -45,15 +45,7 @@ This repository serves as a central index, with each project linked to its own d
 
 ## 📌 About This Portfolio
 
-This repository documents my academic progression throughout the **Computer Engineering** program, covering topics such as:
-
-- Algorithms & Data Structures
-- Object-Oriented Programming & Design
-- Database Systems
-- Software Architecture
-- Backend Development
-- Programming Languages
-- Web Development
+This repository documents my academic progression throughout the **Computer Engineering** program.
 
 Each repository contains:
 
