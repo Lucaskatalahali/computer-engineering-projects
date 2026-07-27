@@ -32,7 +32,7 @@ This repository serves as a central index, with each project linked to its own d
 | ⬢ Hexagonal Priority Queue Simulator | Data Structures | C++ | [Repo](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator) |
 | 🎬 Film Production Management System | Database Management Systems | PostgreSQL, C#, .NET WinForms | [Repo](https://github.com/Lucaskatalahali/FilmProduction) |
 | 🚚 Supply and Logistics Management System | Object-Oriented Analysis and Design | C#, ASP.NET Core MVC, EF Core, PostgreSQL | [Repo](https://github.com/Lucaskatalahali/Supply-And-Logistics-System) |
-| 🏙️ City Simulation in Java | Principles of Programming Languages | Java | 100/100 | [Repo](https://github.com/Lucaskatalahali/city-simulation-java) |
+| 🏙️ City Simulation in Java | Principles of Programming Languages | Java | [Repo](https://github.com/Lucaskatalahali/city-simulation-java) |
 | 🏙️ City Simulation in C | Principles of Programming Languages | C | [Repo](https://github.com/Lucaskatalahali/city-simulation-c) |
 
 ---
