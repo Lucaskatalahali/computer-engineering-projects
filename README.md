@@ -13,12 +13,12 @@ This repository serves as a central index, with each project linked to its own d
 
 *Focus: Programming Fundamentals, Object-Oriented Programming, and Web Development.*
 
-| Project | Course | Tech Stack | Grade | Repository |
-| :--- | :--- | :--- | :---: | :---: |
-| 🏢 Condominium Management System (Console App) | Introduction to Programming | C++ | 100/100 | [Repo](https://github.com/Lucaskatalahali/condominium-management-system) |
-| 🏢 Condominium Management System (Desktop App) | Object-Oriented Programming | C#, .NET WinForms | 90/100 | [Repo](https://github.com/Lucaskatalahali/condominium-management-system-desktop) |
-| 🎮 Vocabulary Quiz App (EN–TR) | Object-Oriented Programming | C#, .NET WinForms | 96/100 | [Repo](https://github.com/Lucaskatalahali/vocabulary-quiz-app) |
-| 🌐 Personal Website | Web Technologies | HTML, CSS, JavaScript | 100/100 | [Repo](https://github.com/Lucaskatalahali/personal-website) |
+| Project | Course | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🏢 Condominium Management System (Console App) | Introduction to Programming | C++ | [Repo](https://github.com/Lucaskatalahali/condominium-management-system) |
+| 🏢 Condominium Management System (Desktop App) | Object-Oriented Programming | C#, .NET WinForms | [Repo](https://github.com/Lucaskatalahali/condominium-management-system-desktop) |
+| 🎮 Vocabulary Quiz App (EN–TR) | Object-Oriented Programming | C#, .NET WinForms | [Repo](https://github.com/Lucaskatalahali/vocabulary-quiz-app) |
+| 🌐 Personal Website | Web Technologies | HTML, CSS, JavaScript | [Repo](https://github.com/Lucaskatalahali/personal-website) |
 
 ---
 
@@ -26,14 +26,14 @@ This repository serves as a central index, with each project linked to its own d
 
 *Focus: Algorithms, data modeling, object-oriented design, and large-scale software development.*
 
-| Project | Course | Tech Stack | Grade | Repository |
-| :--- | :--- | :--- | :---: | :---: |
-| 🎨 ASCII Shape Editor | Data Structures | C++ | 100/100 | [Repo](https://github.com/Lucaskatalahali/ascii-shape-editor) |
-| ⬢ Hexagonal Priority Queue Simulator | Data Structures | C++ | 100/100 | [Repo](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator) |
-| 🎬 Film Production Management System | Database Management Systems | PostgreSQL, C#, .NET WinForms | 100/100 | [Repo](https://github.com/Lucaskatalahali/FilmProduction) |
-| 🚚 Supply and Logistics Management System | Object-Oriented Analysis and Design | C#, ASP.NET Core MVC, EF Core, PostgreSQL | 87/100 | [Repo](https://github.com/Lucaskatalahali/Supply-And-Logistics-System) |
+| Project | Course | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🎨 ASCII Shape Editor | Data Structures | C++ | [Repo](https://github.com/Lucaskatalahali/ascii-shape-editor) |
+| ⬢ Hexagonal Priority Queue Simulator | Data Structures | C++ | [Repo](https://github.com/Lucaskatalahali/hexagonal-priority-queue-simulator) |
+| 🎬 Film Production Management System | Database Management Systems | PostgreSQL, C#, .NET WinForms | [Repo](https://github.com/Lucaskatalahali/FilmProduction) |
+| 🚚 Supply and Logistics Management System | Object-Oriented Analysis and Design | C#, ASP.NET Core MVC, EF Core, PostgreSQL | [Repo](https://github.com/Lucaskatalahali/Supply-And-Logistics-System) |
 | 🏙️ City Simulation in Java | Principles of Programming Languages | Java | 100/100 | [Repo](https://github.com/Lucaskatalahali/city-simulation-java) |
-| 🏙️ City Simulation in C | Principles of Programming Languages | C | 100/100 | [Repo](https://github.com/Lucaskatalahali/city-simulation-c) |
+| 🏙️ City Simulation in C | Principles of Programming Languages | C | [Repo](https://github.com/Lucaskatalahali/city-simulation-c) |
 
 ---
 
