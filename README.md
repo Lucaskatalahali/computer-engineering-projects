@@ -9,7 +9,7 @@ This repository serves as a central index, with each project linked to its own d
 
 ---
 
-## 📚 1st Year (2024–2025)
+## 1st Year (2024–2025)
 
 
 | Project | Course | Tech Stack | Repository |
@@ -21,7 +21,7 @@ This repository serves as a central index, with each project linked to its own d
 
 ---
 
-## 📚 2nd Year (2025–2026)
+## 2nd Year (2025–2026)
 
 
 | Project | Course | Tech Stack | Repository |
@@ -35,7 +35,7 @@ This repository serves as a central index, with each project linked to its own d
 
 ---
 
-## 📚 3rd Year (2026–2027)
+## 3rd Year (2026–2027)
 
 *Coming soon...*
 
