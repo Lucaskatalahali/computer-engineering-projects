@@ -11,7 +11,6 @@ This repository serves as a central index, with each project linked to its own d
 
 ## 📚 1st Year (2024–2025)
 
-*Focus: Programming Fundamentals, Object-Oriented Programming, and Web Development.*
 
 | Project | Course | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
@@ -24,7 +23,6 @@ This repository serves as a central index, with each project linked to its own d
 
 ## 📚 2nd Year (2025–2026)
 
-*Focus: Algorithms, data modeling, object-oriented design, and large-scale software development.*
 
 | Project | Course | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
@@ -42,17 +40,5 @@ This repository serves as a central index, with each project linked to its own d
 *Coming soon...*
 
 ---
-
-## 📌 About This Portfolio
-
-This repository documents my academic progression throughout the **Computer Engineering** program.
-
-Each repository contains:
-
-- Complete source code
-- Technical documentation
-- Build instructions
-- Screenshots (when applicable)
-- Development history
 
 As I progress through my degree, new projects will be added to reflect the knowledge and practical experience gained in each course.
